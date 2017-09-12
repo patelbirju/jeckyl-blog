@@ -9,5 +9,5 @@ lead_text: 'William T Hornaday - Lion'
 ---
 
 September it is !
-*****
+<br>
 Welcome back to school

@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Rich Hildred'
+title: 'Birju Patel'
 description: 'My Portfolio Site'
-url: 'https://rhildred.github.io' # the base hostname & protocol for your site
+url: 'https://patelbirju.github.io/jeckyl-blog' # the base hostname & protocol for your site
 footer_text: '&copy; Rich Hildred'
 
 # Admin Settings
-admin_name: 'Rich Hildred'
-admin_email: 'rhildred@conestogac.on.ca'
+admin_name: 'Birju Patel'
+admin_email: 'Bpatel0967@conestogac.on.ca'
 
